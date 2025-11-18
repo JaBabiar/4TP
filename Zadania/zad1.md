@@ -11,7 +11,7 @@
 - Przedstaw się (Imie i nazwisko + Status)
 - zmien_status(status) - Zmienia status
 
-## Gracz
+## Gracz(User)
 - Nickname
 - poziom
 - ekwipunek
@@ -19,7 +19,7 @@
 - dodaj_przedmiot - Dodaje przedmiot lub liste przedmiotów 
 - sprawdz_poziom - Wyświetla (Nickname i poziom) 
 
-## Administrator
+## Administrator(User)
 - log_dzialan - Działania wykonane przez administratora
 ### Metody 
 - ban -> zmienia status dla danego Usera na zbanowany i dodaje do logów 
