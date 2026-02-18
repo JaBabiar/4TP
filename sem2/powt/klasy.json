@@ -1,0 +1,51 @@
+{
+  "nazwa_szkoly": "TEB Edukacja",
+  "miasto": "Torun",
+  "klasy": [
+    {
+      "symbol": "4TP",
+      "profil": "Technik Programista",
+      "uczniowie": [
+        {
+          "imie": "Jan",
+          "nazwisko": "Kowalski"
+        },
+        {
+
+          "imie": "Anna",
+          "nazwisko": "Nowak"
+        },
+        {
+          "imie": "Piotr",
+          "nazwisko": "Wiśniewski"
+        },
+                {
+          "imie": "Jan",
+          "nazwisko": "Kowalski"
+        },
+        {
+
+          "imie": "Anna",
+          "nazwisko": "Nowak"
+        },
+        {
+          "imie": "Piotr",
+          "nazwisko": "Wiśniewski"
+        },
+                {
+          "imie": "Jan",
+          "nazwisko": "Kowalski"
+        },
+        {
+
+          "imie": "Anna",
+          "nazwisko": "Nowak"
+        },
+        {
+          "imie": "Piotr",
+          "nazwisko": "Wiśniewski"
+        }
+      ]
+    }
+  ]
+}
